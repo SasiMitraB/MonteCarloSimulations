@@ -1,0 +1,11 @@
+# Monte Carlo Simulations - Science Day 2025
+# Dependencies for all simulation scripts
+
+# Core dependencies
+pygame>=2.5.0
+numpy>=1.24.0
+numba>=0.57.0
+pandas>=2.0.0
+
+# Additional dependencies for Vicsek model
+pygame-widgets>=1.1.0
