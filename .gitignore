@@ -13199,3 +13199,7 @@ venv/lib/python3.12/site-packages/tzdata-2025.2.dist-info/WHEEL
 venv/lib/python3.12/site-packages/tzdata-2025.2.dist-info/licenses/LICENSE
 venv/lib/python3.12/site-packages/tzdata-2025.2.dist-info/licenses/licenses/LICENSE_APACHE
 venv/share/man/man1/ttx.1
+venv/.DS_Store
+venv/lib/.DS_Store
+venv/lib/python3.12/.DS_Store
+venv/lib/python3.12/site-packages/.DS_Store
